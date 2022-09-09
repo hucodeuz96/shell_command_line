@@ -1,0 +1,14 @@
+1662687595192:help
+1662687629288:show users info
+1662687641872:login
+1662687697512:login username=Husniddin, password=123
+1662687834178:login username=Husniddin password=123
+1662690227575:login --username Husniddin --password 123
+1662690245476:users
+1662690289612:users_info
+1662690318033:transfer
+1662691243182:login
+1662691283548:login --username Husniddin --password 123
+1662691290553:transfer
+1662691330250:transfer --reciver Shuxrat --amount 50000
+1662691340427:users_info
